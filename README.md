@@ -7,7 +7,7 @@ A curated list of ready-to-use components available for the application develope
 - [Projects](#projects)
 
 ## Database
-* [SQLite fork](https://github.com/fluencelabs/sqlite) — a lightweight SQL database ported to WebAssembly that could be used as of the modules or as a standalone application.
+* [SQLite fork](https://github.com/fluencelabs/sqlite) — a lightweight SQL database ported to WebAssembly that could be used as of the modules inside an app or as a standalone application.
 * [Redis fork](https://github.com/fluencelabs/redis) — a NoSQL in-memory database that persists on disk.
 * [Llamadb fork](https://github.com/fluencelabs/llamadb) — an SQL database written in Rust, great to play around with.
 
@@ -28,7 +28,7 @@ All of these databases are available at the [Fluence Dashboard](http://dash.flue
 * Developer Groups: ask your question on [Telegram](https://t.me/web3hack), or [Discord](http://fluence.chat/).
 
 ## Projects
-Some awesome projects using Fluence to get inspired.
+Some awesome projects using Fluence.
 
 * [Koos](https://gitlab.com/koos-project/koos) — a minimalist decentralised social network, [check it out](http://koos.network/).
 * [SIRES](https://github.com/h8art/dwh-game) — an in-browser real-time shooter with crypto assets.
