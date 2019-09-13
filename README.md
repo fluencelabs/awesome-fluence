@@ -14,6 +14,8 @@ A curated list of ready-to-use components available for the application develope
 All of these databases are available at the [Fluence Dashboard](http://dash.fluence.network/deploy).
 
 ## Serverless
+### REPL
+REPL (Read-Eval-Print Loop) is an application on Fluence (just as a database) that allows developers to create scripts and execute them without compiling into Wasm.
 * A REPL for [Rhai](https://github.com/viraja1/rhai_functions_fluence) – embedded scripting c-like language for Rust.
 * A REPL for [Ketos](https://github.com/bakaoh/ketos-dapp) – Lisp dialect embedded in Rust.
 
