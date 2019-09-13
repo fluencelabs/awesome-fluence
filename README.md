@@ -25,7 +25,7 @@ REPL (Read-Eval-Print Loop) is an application on Fluence (just as a database) th
 ## Resources
 * [Dashboard](http://dash.fluence.network/) — deploy and manage your application, monitor the network state.
 * [Documentation](https://fluence.dev/) — comprehensive guides and documentation to help you start working with Fluence as fast as possible.
-* [Quickstart](https://fluence.dev/docs/quickstart) —learn the basics of backend and frontend development on Fluence.
+* [Quickstart](https://fluence.dev/docs/quickstart) — learn the basics of backend and frontend development on Fluence.
 * [Tutorial](https://fluence.dev/docs/quickstart) — build a decentralized Twitter-like feed. 
 * Developer Groups: ask your question on [Telegram](https://t.me/web3hack), or [Discord](http://fluence.chat/).
 
