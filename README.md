@@ -32,5 +32,7 @@ REPL (Read-Eval-Print Loop) is an application on Fluence (just as a database) th
 ## Projects
 Some awesome projects using Fluence.
 
+* [Lazy Snark](https://github.com/smartkek/lazy-snark) – a tool for trustless off-chain zk-proof verification ([Demo](http://arweave.net/M_wn5UbWKE28zIts1vYu52p1OXAgcXhRyVKsbiBHkic)).
 * [Koos](https://gitlab.com/koos-project/koos) — a minimalist decentralised social network, [check it out](http://koos.network/).
+* [VoteEx](https://github.com/baitun/VoteEX) - Blockchain-based site reviews via a Chrome extension.
 * [SIRES](https://github.com/h8art/dwh-game) — an in-browser real-time shooter with crypto assets.
