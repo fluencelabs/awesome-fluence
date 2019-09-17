@@ -2,7 +2,7 @@
 A curated list of ready-to-use components available for the application developers at the Fluence network.
 - [Database](#database)
 - [Serverless](#serverless)
-- [Libraries&Tools](#libraries&tools)
+- [Libraries&Tools](#librariestools)
 - [Resources](#resources)
 - [Projects](#projects)
 
