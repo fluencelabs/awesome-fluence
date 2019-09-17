@@ -2,7 +2,7 @@
 A curated list of ready-to-use components available for the application developers at the Fluence network.
 - [Database](#database)
 - [Serverless](#serverless)
-- [Library](#libraries and tools)
+- [Library](#libraries&tools)
 - [Resources](#resources)
 - [Projects](#projects)
 
@@ -19,7 +19,7 @@ REPL (Read-Eval-Print Loop) is an application on Fluence (just as a database) th
 * A REPL for [Rhai](https://github.com/viraja1/rhai_functions_fluence) – embedded scripting c-like language for Rust.
 * A REPL for [Ketos](https://github.com/bakaoh/ketos-dapp) – Lisp dialect embedded in Rust.
 
-## Libraries and Tools
+## Libraries&Tools
 * [VRF](https://github.com/mixbytes/fluence-VRF) — decentralized verifiable random functions.
 * [Lazy Snark](https://github.com/smartkek/lazy-snark) – a tool for trustless off-chain zk-proof verification ([Demo](http://arweave.net/M_wn5UbWKE28zIts1vYu52p1OXAgcXhRyVKsbiBHkic)).
 
