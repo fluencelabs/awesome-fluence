@@ -2,7 +2,7 @@
 A curated list of ready-to-use components available for the application developers at the Fluence network.
 - [Database](#database)
 - [Serverless](#serverless)
-- [Library](#library)
+- [Library](#libraries and tools)
 - [Resources](#resources)
 - [Projects](#projects)
 
@@ -19,8 +19,9 @@ REPL (Read-Eval-Print Loop) is an application on Fluence (just as a database) th
 * A REPL for [Rhai](https://github.com/viraja1/rhai_functions_fluence) – embedded scripting c-like language for Rust.
 * A REPL for [Ketos](https://github.com/bakaoh/ketos-dapp) – Lisp dialect embedded in Rust.
 
-## Library
+## Libraries and Tools
 * [VRF](https://github.com/mixbytes/fluence-VRF) — decentralized verifiable random functions.
+* [Lazy Snark](https://github.com/smartkek/lazy-snark) – a tool for trustless off-chain zk-proof verification ([Demo](http://arweave.net/M_wn5UbWKE28zIts1vYu52p1OXAgcXhRyVKsbiBHkic)).
 
 ## Resources
 * [Dashboard](http://dash.fluence.network/) — deploy and manage your application, monitor the network state.
@@ -32,7 +33,6 @@ REPL (Read-Eval-Print Loop) is an application on Fluence (just as a database) th
 ## Projects
 Some awesome projects using Fluence.
 
-* [Lazy Snark](https://github.com/smartkek/lazy-snark) – a tool for trustless off-chain zk-proof verification ([Demo](http://arweave.net/M_wn5UbWKE28zIts1vYu52p1OXAgcXhRyVKsbiBHkic)).
 * [Koos](https://gitlab.com/koos-project/koos) — a minimalist decentralised social network, [check it out](http://koos.network/).
 * [VoteEx](https://github.com/baitun/VoteEX) - Blockchain-based site reviews via a Chrome extension.
 * [SIRES](https://github.com/h8art/dwh-game) — an in-browser real-time shooter with crypto assets.
